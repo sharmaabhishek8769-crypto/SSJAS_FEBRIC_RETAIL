@@ -1,0 +1,101 @@
+CustomerID,FirstName,LastName,Email,Phone,City,State,Country,ZipCode,JoinDate,TotalOrders,TotalSpent,Status
+CUST0001,Linda,Johnson,lindajohnson32@outlook.com,+1-428-242-2679,Hyderabad,TS,USA,98696,2023-06-28,38,6386.64,Active
+CUST0002,Jennifer,Wilson,jenniferwilson78@corp.net,+1-227-674-4257,San Diego,CA,USA,95181,2025-05-09,15,6793.21,Active
+CUST0003,James,Hernandez,jameshernandez44@business.com,+1-484-259-4527,Bangalore,KA,USA,54118,2023-07-29,6,5760.92,Active
+CUST0004,Daniel,Hill,danielhill94@gmail.com,+1-670-649-3045,Dallas,TX,USA,59615,2023-06-11,36,4468.36,Suspended
+CUST0005,Nancy,Torres,nancytorres6@gmail.com,+1-877-333-5741,San Antonio,TX,USA,20458,2024-04-21,7,5763.88,Inactive
+CUST0006,Nancy,Hernandez,nancyhernandez27@outlook.com,+1-886-373-2169,Jacksonville,FL,USA,89840,2023-12-17,35,10963.99,Active
+CUST0007,Sandra,Harris,sandraharris29@corp.net,+1-901-432-1916,Dallas,TX,USA,40021,2023-03-07,21,6077.36,Active
+CUST0008,Susan,Torres,susantorres28@outlook.com,+1-871-611-7482,Bangalore,KA,USA,94259,2025-07-28,10,4046.71,Active
+CUST0009,Kimberly,Wright,kimberlywright55@corp.net,+1-797-508-6930,Dallas,TX,USA,38746,2023-10-11,33,7453.39,Active
+CUST0010,Linda,Martinez,lindamartinez88@yahoo.com,+1-632-710-2040,Mumbai,MH,USA,60432,2025-02-20,39,14942.21,Suspended
+CUST0011,Thomas,Scott,thomasscott88@gmail.com,+1-749-868-5371,New York,NY,USA,94012,2024-11-27,8,4473.15,Active
+CUST0012,Sandra,Smith,sandrasmith65@outlook.com,+1-980-282-9317,Hyderabad,TS,USA,23947,2024-09-03,41,7664.18,Active
+CUST0013,Barbara,White,barbarawhite70@yahoo.com,+1-997-643-1009,Chennai,TN,USA,88504,2024-10-25,32,390.2,Active
+CUST0014,Karen,Thomas,karenthomas73@yahoo.com,+1-280-187-8962,Los Angeles,CA,USA,19071,2025-12-26,50,1973.83,Inactive
+CUST0015,Kimberly,Hernandez,kimberlyhernandez78@corp.net,+1-633-316-9835,Dallas,TX,USA,36365,2024-09-30,26,14927.73,Active
+CUST0016,Mark,King,markking32@gmail.com,+1-430-165-6539,Charlotte,NC,USA,12757,2024-04-16,38,3381.24,Active
+CUST0017,Patricia,Anderson,patriciaanderson43@gmail.com,+1-272-626-4899,Chicago,IL,USA,46500,2025-09-21,14,8134.59,Suspended
+CUST0018,Andrew,Walker,andrewwalker53@business.com,+1-394-196-2588,San Diego,CA,USA,96374,2025-06-01,23,6411.32,Inactive
+CUST0019,Patricia,Miller,patriciamiller94@business.com,+1-547-919-2790,Los Angeles,CA,USA,42591,2024-01-28,13,8090.66,Active
+CUST0020,Margaret,Lopez,margaretlopez32@business.com,+1-277-553-2604,Dallas,TX,USA,16630,2023-01-31,6,13902.87,Active
+CUST0021,David,Clark,davidclark28@business.com,+1-610-160-3697,Indianapolis,IN,USA,59672,2023-01-05,25,4051.53,Inactive
+CUST0022,Charles,Ramirez,charlesramirez85@corp.net,+1-935-598-3536,Bangalore,KA,USA,34890,2024-08-30,14,14533.77,Suspended
+CUST0023,Paul,Brown,paulbrown8@outlook.com,+1-251-698-8811,Hyderabad,TS,USA,75909,2025-12-23,11,947.51,Suspended
+CUST0024,Jennifer,Lopez,jenniferlopez9@corp.net,+1-891-982-4853,Chicago,IL,USA,62923,2023-09-03,37,3768.61,Suspended
+CUST0025,John,Flores,johnflores85@business.com,+1-797-678-9565,Chicago,IL,USA,51467,2024-06-18,14,10078.92,Active
+CUST0026,Jessica,Taylor,jessicataylor86@yahoo.com,+1-860-407-8491,Fort Worth,TX,USA,51441,2023-05-29,1,6928.45,Suspended
+CUST0027,Michael,Jones,michaeljones65@yahoo.com,+1-471-235-6718,Seattle,WA,USA,19016,2024-05-15,24,4346.31,Inactive
+CUST0028,Paul,Martin,paulmartin2@corp.net,+1-883-936-5905,Nashville,TN,USA,96951,2023-08-01,9,4040.54,Active
+CUST0029,Kimberly,Martinez,kimberlymartinez78@outlook.com,+1-415-834-6617,Dallas,TX,USA,36685,2024-06-24,33,7379.12,Active
+CUST0030,Jennifer,Ramirez,jenniferramirez1@gmail.com,+1-541-889-3143,Dallas,TX,USA,93507,2024-06-20,11,11144.34,Suspended
+CUST0031,Margaret,Scott,margaretscott10@gmail.com,+1-907-252-9938,New York,NY,USA,14722,2025-01-26,38,8332.62,Inactive
+CUST0032,William,Williams,williamwilliams6@outlook.com,+1-566-315-5088,San Jose,CA,USA,97416,2023-07-30,23,11723.73,Inactive
+CUST0033,Donna,Martinez,donnamartinez23@yahoo.com,+1-622-125-3938,San Diego,CA,USA,53540,2025-04-23,43,12974.55,Active
+CUST0034,Sarah,Hernandez,sarahhernandez49@gmail.com,+1-239-979-8711,Bangalore,KA,USA,39154,2024-02-13,30,5309.91,Active
+CUST0035,Joseph,Johnson,josephjohnson52@yahoo.com,+1-536-385-2137,Delhi,DL,USA,46585,2024-12-20,42,7690.14,Suspended
+CUST0036,Lisa,Johnson,lisajohnson23@outlook.com,+1-794-371-1626,Houston,TX,USA,24208,2025-06-08,23,10955.32,Active
+CUST0037,Margaret,Hill,margarethill50@gmail.com,+1-790-294-5173,San Francisco,CA,USA,15817,2025-06-12,1,7846.81,Suspended
+CUST0038,Richard,White,richardwhite86@gmail.com,+1-538-738-6143,Columbus,OH,USA,96951,2023-09-13,47,13510.7,Suspended
+CUST0039,Karen,Clark,karenclark90@business.com,+1-502-667-3085,Austin,TX,USA,35144,2025-05-11,43,14111.42,Active
+CUST0040,Donna,Torres,donnatorres71@business.com,+1-200-411-5700,San Jose,CA,USA,37549,2025-05-30,38,9139.26,Active
+CUST0041,Sandra,Lewis,sandralewis66@yahoo.com,+1-684-912-3780,Charlotte,NC,USA,96356,2023-06-23,19,7780.23,Suspended
+CUST0042,Lisa,Garcia,lisagarcia87@yahoo.com,+1-517-330-4262,Chennai,TN,USA,29313,2023-02-20,3,3748.15,Inactive
+CUST0043,Donna,Jones,donnajones81@business.com,+1-789-299-7291,Charlotte,NC,USA,74799,2025-03-29,16,2298.81,Active
+CUST0044,Michael,Ramirez,michaelramirez90@yahoo.com,+1-730-575-1822,San Diego,CA,USA,83060,2024-05-25,8,6901.28,Inactive
+CUST0045,Dorothy,Scott,dorothyscott97@outlook.com,+1-653-727-9270,Nashville,TN,USA,65933,2025-07-02,11,11180.47,Inactive
+CUST0046,Mark,Taylor,marktaylor82@yahoo.com,+1-483-884-9540,Chennai,TN,USA,73517,2024-05-04,18,6654.1,Active
+CUST0047,Jessica,Moore,jessicamoore70@outlook.com,+1-282-241-3471,Austin,TX,USA,40311,2025-02-23,45,2376.8,Active
+CUST0048,Robert,Clark,robertclark70@outlook.com,+1-677-525-2020,Columbus,OH,USA,37110,2025-05-10,25,13582.09,Suspended
+CUST0049,Mary,Torres,marytorres1@business.com,+1-560-405-7389,Fort Worth,TX,USA,64921,2024-03-27,32,3369.38,Inactive
+CUST0050,Ashley,Johnson,ashleyjohnson86@outlook.com,+1-895-917-7624,Fort Worth,TX,USA,31632,2025-08-15,9,14712.76,Suspended
+CUST0051,Mary,Sanchez,marysanchez85@corp.net,+1-227-185-8022,Denver,CO,USA,27786,2025-08-03,12,849.24,Inactive
+CUST0052,Christopher,Wilson,christopherwilson44@outlook.com,+1-979-488-5558,Charlotte,NC,USA,65255,2024-05-31,6,7107.57,Suspended
+CUST0053,Patricia,Thompson,patriciathompson84@gmail.com,+1-241-872-1508,San Diego,CA,USA,42411,2024-02-13,2,9357.9,Active
+CUST0054,William,Walker,williamwalker73@gmail.com,+1-423-576-5198,Delhi,DL,USA,58351,2023-12-10,39,9147.99,Active
+CUST0055,David,Martin,davidmartin4@corp.net,+1-519-689-7149,Houston,TX,USA,61990,2024-02-11,5,8922.26,Active
+CUST0056,Michael,Martin,michaelmartin16@corp.net,+1-779-901-1672,Delhi,DL,USA,55508,2025-12-27,28,9956.67,Active
+CUST0057,Steven,Perez,stevenperez63@business.com,+1-308-543-6934,New York,NY,USA,93307,2025-07-30,46,2379.57,Active
+CUST0058,Dorothy,Moore,dorothymoore62@corp.net,+1-676-546-5397,Nashville,TN,USA,52245,2024-05-17,6,4256.03,Inactive
+CUST0059,Jessica,Robinson,jessicarobinson86@corp.net,+1-588-444-1470,Denver,CO,USA,74789,2024-10-27,12,7364.49,Active
+CUST0060,Thomas,Perez,thomasperez90@corp.net,+1-482-669-1166,Dallas,TX,USA,77715,2024-01-27,6,3696.21,Inactive
+CUST0061,Ashley,Scott,ashleyscott89@yahoo.com,+1-687-761-9041,Chennai,TN,USA,68743,2023-02-05,6,4484.11,Inactive
+CUST0062,Jessica,Martin,jessicamartin48@corp.net,+1-684-666-9698,Delhi,DL,USA,55056,2025-05-21,48,8300.79,Active
+CUST0063,Sandra,Moore,sandramoore30@outlook.com,+1-323-838-4155,San Jose,CA,USA,51359,2023-09-02,48,8084.37,Active
+CUST0064,Richard,Wilson,richardwilson36@business.com,+1-941-703-9595,Hyderabad,TS,USA,88222,2024-08-02,7,12506.16,Active
+CUST0065,Joseph,White,josephwhite2@outlook.com,+1-925-646-3073,Philadelphia,PA,USA,45954,2023-04-04,4,8345.05,Active
+CUST0066,Ashley,Miller,ashleymiller37@corp.net,+1-680-590-8216,New York,NY,USA,54657,2024-01-13,4,3861.93,Inactive
+CUST0067,Linda,Jones,lindajones10@business.com,+1-790-744-1878,Fort Worth,TX,USA,29887,2023-11-02,37,14241.97,Active
+CUST0068,Jessica,Davis,jessicadavis78@business.com,+1-810-909-4697,Seattle,WA,USA,78494,2025-02-18,29,13636.72,Active
+CUST0069,Emily,Ramirez,emilyramirez80@corp.net,+1-261-724-2625,San Jose,CA,USA,37235,2024-03-08,17,9940.38,Active
+CUST0070,Jessica,Lopez,jessicalopez21@gmail.com,+1-202-518-8381,Seattle,WA,USA,87832,2025-08-20,19,586.33,Active
+CUST0071,Charles,Robinson,charlesrobinson34@yahoo.com,+1-840-703-4241,Chicago,IL,USA,65723,2023-08-24,35,3449.66,Active
+CUST0072,Sarah,Martinez,sarahmartinez22@gmail.com,+1-514-709-5728,Chicago,IL,USA,67560,2023-09-12,30,10361.3,Inactive
+CUST0073,Sarah,Allen,sarahallen57@business.com,+1-282-712-1653,Seattle,WA,USA,66626,2024-10-22,39,3830.48,Active
+CUST0074,Joseph,Torres,josephtorres98@gmail.com,+1-888-941-5415,Denver,CO,USA,85529,2023-03-24,49,11368.41,Inactive
+CUST0075,Dorothy,Lewis,dorothylewis75@yahoo.com,+1-646-750-9056,Dallas,TX,USA,21959,2025-08-20,23,6184.39,Active
+CUST0076,Michael,Hernandez,michaelhernandez89@business.com,+1-707-395-7561,Austin,TX,USA,82102,2023-03-17,30,1412.09,Active
+CUST0077,Christopher,Davis,christopherdavis66@business.com,+1-201-773-9889,Chennai,TN,USA,70552,2025-04-26,4,2894.98,Active
+CUST0078,Donna,Young,donnayoung98@business.com,+1-252-308-5375,Mumbai,MH,USA,81987,2023-09-26,19,6627.93,Inactive
+CUST0079,Linda,Johnson,lindajohnson31@corp.net,+1-926-262-6091,Mumbai,MH,USA,82199,2023-01-29,36,6179.06,Active
+CUST0080,Linda,Robinson,lindarobinson64@yahoo.com,+1-933-398-9337,Houston,TX,USA,45838,2025-04-30,31,14705.65,Active
+CUST0081,Sandra,Scott,sandrascott25@business.com,+1-813-620-3236,Phoenix,AZ,USA,19150,2024-07-19,50,11871.09,Inactive
+CUST0082,Lisa,Allen,lisaallen37@gmail.com,+1-943-405-9022,Dallas,TX,USA,29476,2025-07-03,35,7316.69,Active
+CUST0083,Kimberly,Wright,kimberlywright42@business.com,+1-393-814-4912,Fort Worth,TX,USA,84946,2025-02-23,15,12854.59,Inactive
+CUST0084,John,Lee,johnlee91@business.com,+1-590-495-3492,Hyderabad,TS,USA,74923,2023-03-17,9,7584.14,Suspended
+CUST0085,Lisa,Miller,lisamiller68@gmail.com,+1-667-115-3361,Charlotte,NC,USA,63736,2023-11-13,5,7095.41,Active
+CUST0086,Lisa,Flores,lisaflores84@business.com,+1-282-972-6383,Bangalore,KA,USA,98389,2025-12-28,25,14316.68,Inactive
+CUST0087,Paul,Williams,paulwilliams31@gmail.com,+1-846-800-5708,Nashville,TN,USA,39817,2023-07-05,28,14677.23,Active
+CUST0088,Mark,Hernandez,markhernandez4@outlook.com,+1-247-432-1919,Bangalore,KA,USA,48452,2025-01-04,24,6517.23,Active
+CUST0089,Dorothy,Clark,dorothyclark22@yahoo.com,+1-379-180-7267,Denver,CO,USA,91226,2024-05-08,32,13701.15,Active
+CUST0090,Joseph,Robinson,josephrobinson59@outlook.com,+1-461-782-1153,Mumbai,MH,USA,70981,2024-08-12,44,8244.31,Active
+CUST0091,Mark,Thompson,markthompson82@outlook.com,+1-634-806-5097,Denver,CO,USA,69878,2024-09-10,13,14990.67,Inactive
+CUST0092,Michael,Thomas,michaelthomas46@corp.net,+1-788-402-5837,Fort Worth,TX,USA,12875,2025-03-21,18,220.66,Active
+CUST0093,Kenneth,Young,kennethyoung78@yahoo.com,+1-560-324-4115,San Jose,CA,USA,91381,2024-05-28,44,11358.1,Active
+CUST0094,Michael,Williams,michaelwilliams5@business.com,+1-793-473-3153,San Jose,CA,USA,21813,2024-08-27,21,11237.46,Active
+CUST0095,Richard,Rodriguez,richardrodriguez68@outlook.com,+1-713-379-3695,Seattle,WA,USA,43681,2025-09-13,19,11223.73,Active
+CUST0096,Linda,Robinson,lindarobinson97@yahoo.com,+1-431-980-7511,Chicago,IL,USA,83048,2025-01-19,6,11881.16,Active
+CUST0097,Thomas,Wright,thomaswright48@business.com,+1-888-866-5295,Houston,TX,USA,86619,2025-02-19,41,14110.35,Active
+CUST0098,Joseph,Walker,josephwalker72@corp.net,+1-535-724-4626,New York,NY,USA,94889,2023-05-10,41,12375.44,Active
+CUST0099,Anthony,Davis,anthonydavis5@gmail.com,+1-511-604-2902,Phoenix,AZ,USA,22739,2024-04-25,35,2121.39,Inactive
+CUST0100,Nancy,Wright,nancywright96@corp.net,+1-944-258-7797,Columbus,OH,USA,95841,2023-07-22,32,9273.22,Active

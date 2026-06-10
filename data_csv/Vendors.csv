@@ -1,0 +1,101 @@
+VendorID,CompanyName,ContactName,Email,Phone,City,State,Country,Category,ContractStart,ContractEnd,PaymentTerms,Rating,Status
+VEND0001,Orbit Operations Corp,John White,johnwhite88@gmail.com,+1-576-657-6876,San Antonio,TX,USA,Electronics,2021-04-28,2023-05-04,COD,3.2,Active
+VEND0002,Global Goods Co,Sandra Garcia,sandragarcia32@outlook.com,+1-328-905-4362,Delhi,DL,USA,Electronics,2020-02-13,2021-04-04,Prepaid,3.0,Active
+VEND0003,Eagle Traders Co,Joseph Perez,josephperez17@yahoo.com,+1-753-356-3858,Chennai,TN,USA,Electronics,2020-01-06,2021-10-15,Net 30,2.8,Active
+VEND0004,Apex Solutions Inc,Jessica Nguyen,jessicanguyen95@yahoo.com,+1-631-638-2862,Austin,TX,USA,Storage,2021-06-27,2022-08-19,Net 30,3.7,Active
+VEND0005,Orbit Operations Co,Steven Nguyen,stevennguyen94@gmail.com,+1-874-633-5941,Houston,TX,USA,Furniture,2021-03-29,2023-12-18,Net 30,2.7,Inactive
+VEND0006,Delta Supplies Corp,Betty Ramirez,bettyramirez42@gmail.com,+1-822-251-2076,Delhi,DL,USA,Peripherals,2022-06-27,2023-09-10,Net 60,4.1,Active
+VEND0007,Jade Partners Corp,Matthew Hill,matthewhill13@business.com,+1-918-217-4522,San Francisco,CA,USA,Furniture,2022-11-01,2025-07-12,COD,4.7,Inactive
+VEND0008,Nova Networks Ltd,Lisa Robinson,lisarobinson86@outlook.com,+1-461-483-3500,Fort Worth,TX,USA,Storage,2021-10-02,2023-12-13,COD,2.7,Active
+VEND0009,Xenon Exports LLC,Jennifer Ramirez,jenniferramirez76@gmail.com,+1-775-675-6400,Houston,TX,USA,Storage,2020-09-23,2023-04-15,Net 30,3.5,Inactive
+VEND0010,Jade Partners LLC,Patricia Jackson,patriciajackson28@corp.net,+1-358-772-8900,Nashville,TN,USA,Peripherals,2020-07-31,2023-03-14,Net 30,3.4,Active
+VEND0011,Horizon Holdings Corp,Linda Moore,lindamoore4@outlook.com,+1-384-379-6062,Denver,CO,USA,Office Supplies,2020-02-23,2022-11-07,Net 60,2.5,Active
+VEND0012,Eagle Traders Ltd,Andrew Sanchez,andrewsanchez49@yahoo.com,+1-629-564-6585,Chicago,IL,USA,Peripherals,2020-07-06,2022-12-31,Net 60,3.3,Active
+VEND0013,Blue Ridge Corp Inc,Andrew Hill,andrewhill87@gmail.com,+1-283-378-8259,Chicago,IL,USA,Storage,2020-11-18,2023-08-12,COD,3.7,Inactive
+VEND0014,Yield Corp Co,Anthony Moore,anthonymoore15@business.com,+1-490-794-8972,San Antonio,TX,USA,Networking,2020-08-21,2022-08-09,Net 60,2.6,Inactive
+VEND0015,Global Goods LLC,Kenneth Brown,kennethbrown38@outlook.com,+1-535-222-1126,New York,NY,USA,Furniture,2021-03-08,2022-07-26,COD,2.9,Inactive
+VEND0016,Rapid Resources LLC,Paul Anderson,paulanderson56@gmail.com,+1-219-570-2275,San Francisco,CA,USA,Accessories,2020-05-27,2022-07-07,Net 60,3.9,Inactive
+VEND0017,Metro Materials Ltd,Anthony Jackson,anthonyjackson59@corp.net,+1-906-470-2443,Houston,TX,USA,Furniture,2021-10-27,2023-04-20,Net 30,3.1,Inactive
+VEND0018,Jade Partners LLC,Dorothy Garcia,dorothygarcia10@yahoo.com,+1-722-748-2868,Fort Worth,TX,USA,Networking,2021-03-29,2023-03-05,Prepaid,3.0,Active
+VEND0019,Delta Supplies Inc,Daniel Martinez,danielmartinez78@yahoo.com,+1-356-878-2234,San Diego,CA,USA,Peripherals,2021-06-08,2022-12-27,COD,3.7,Inactive
+VEND0020,Unity Ventures LLC,Andrew Flores,andrewflores61@gmail.com,+1-652-746-5961,Austin,TX,USA,Accessories,2020-11-05,2023-01-29,Net 60,4.0,Active
+VEND0021,Orbit Operations Corp,Steven Jones,stevenjones37@outlook.com,+1-278-760-2479,San Jose,CA,USA,Networking,2020-03-18,2021-05-15,Prepaid,3.8,Inactive
+VEND0022,Blue Ridge Corp Corp,Emily Scott,emilyscott61@corp.net,+1-713-254-2013,Hyderabad,TS,USA,Furniture,2021-01-20,2022-12-15,Net 30,4.5,Active
+VEND0023,Falcon Enterprises Ltd,Jennifer Allen,jenniferallen57@business.com,+1-736-635-3600,Mumbai,MH,USA,Office Supplies,2021-05-22,2024-05-15,Net 60,4.8,Inactive
+VEND0024,Titan Trading Ltd,Anthony Perez,anthonyperez13@outlook.com,+1-771-794-7333,Delhi,DL,USA,Office Supplies,2021-11-16,2023-01-22,Net 60,4.3,Active
+VEND0025,Vertex Ventures Inc,Lisa Garcia,lisagarcia17@business.com,+1-809-825-2388,Denver,CO,USA,Office Supplies,2021-12-17,2023-10-30,Prepaid,3.4,Active
+VEND0026,Unity Ventures Corp,William King,williamking47@gmail.com,+1-516-284-4509,Chicago,IL,USA,Office Supplies,2022-11-07,2024-11-11,COD,3.0,Active
+VEND0027,Delta Supplies Co,Barbara Jones,barbarajones99@outlook.com,+1-832-234-7172,San Jose,CA,USA,Peripherals,2022-12-14,2024-01-21,Net 45,3.0,Active
+VEND0028,Lunar Logistics Inc,Mark Williams,markwilliams97@outlook.com,+1-966-902-8355,Columbus,OH,USA,Peripherals,2022-06-28,2025-03-14,Prepaid,3.1,Inactive
+VEND0029,Summit Supplies Corp,Richard White,richardwhite65@business.com,+1-740-528-3655,Delhi,DL,USA,Accessories,2022-08-03,2024-05-17,Net 45,4.5,Active
+VEND0030,Pinnacle Products LLC,Thomas Brown,thomasbrown16@corp.net,+1-491-185-3626,Mumbai,MH,USA,Office Supplies,2020-07-29,2023-07-27,COD,4.8,Active
+VEND0031,Orbit Operations LLC,Margaret Garcia,margaretgarcia51@gmail.com,+1-714-482-4862,San Diego,CA,USA,Furniture,2020-02-24,2022-04-23,Net 30,3.4,Active
+VEND0032,Unity Ventures LLC,Christopher Miller,christophermiller37@gmail.com,+1-683-812-3273,Bangalore,KA,USA,Accessories,2020-10-26,2022-03-15,COD,3.6,Active
+VEND0033,Global Goods Inc,Jennifer Johnson,jenniferjohnson37@gmail.com,+1-443-408-2996,Dallas,TX,USA,Electronics,2022-12-16,2025-02-21,Net 45,3.5,Inactive
+VEND0034,Titan Trading Co,Robert Davis,robertdavis74@corp.net,+1-447-835-3352,Indianapolis,IN,USA,Office Supplies,2020-02-03,2022-11-11,COD,2.5,Active
+VEND0035,Falcon Enterprises Ltd,Jessica Torres,jessicatorres68@gmail.com,+1-757-619-9316,Columbus,OH,USA,Networking,2022-12-08,2024-12-11,Net 30,3.5,Inactive
+VEND0036,Infinity Inc Ltd,John Harris,johnharris31@outlook.com,+1-950-772-2698,Jacksonville,FL,USA,Accessories,2022-01-01,2023-03-11,Prepaid,4.3,Active
+VEND0037,Rapid Resources LLC,William Williams,williamwilliams90@business.com,+1-690-746-3986,Jacksonville,FL,USA,Accessories,2020-12-24,2023-11-25,Net 45,2.7,Inactive
+VEND0038,Blue Ridge Corp Inc,John Jackson,johnjackson66@outlook.com,+1-607-934-9897,San Antonio,TX,USA,Furniture,2020-03-26,2022-02-12,Net 60,2.6,Active
+VEND0039,Blue Ridge Corp LLC,Charles Thompson,charlesthompson56@outlook.com,+1-609-861-8204,Chennai,TN,USA,Furniture,2021-07-13,2022-11-17,Net 60,4.9,Inactive
+VEND0040,Infinity Inc Ltd,Ashley White,ashleywhite78@business.com,+1-384-658-5813,San Francisco,CA,USA,Office Supplies,2022-05-19,2023-08-07,Net 30,2.7,Active
+VEND0041,Waveline Works Corp,Karen Lewis,karenlewis45@business.com,+1-657-143-6776,Nashville,TN,USA,Networking,2020-12-07,2023-11-13,COD,3.2,Active
+VEND0042,Quantum Quality Inc,Robert Sanchez,robertsanchez87@corp.net,+1-648-135-3068,Jacksonville,FL,USA,Electronics,2020-03-04,2021-07-28,Net 45,4.4,Active
+VEND0043,Blue Ridge Corp Co,Nancy Harris,nancyharris48@business.com,+1-580-554-2259,Denver,CO,USA,Networking,2020-11-10,2023-10-06,Net 45,3.8,Inactive
+VEND0044,Delta Supplies Ltd,Christopher Moore,christophermoore50@corp.net,+1-775-220-5288,San Diego,CA,USA,Accessories,2021-01-16,2023-06-11,Net 60,4.3,Active
+VEND0045,Pinnacle Products Inc,Donna Jackson,donnajackson58@gmail.com,+1-376-830-8292,Bangalore,KA,USA,Electronics,2020-09-08,2022-01-24,Net 60,4.2,Active
+VEND0046,Jade Partners Inc,Kimberly Wright,kimberlywright29@corp.net,+1-324-305-3275,San Jose,CA,USA,Peripherals,2020-12-22,2022-12-27,COD,2.6,Active
+VEND0047,Titan Trading Ltd,Sandra Scott,sandrascott92@business.com,+1-936-590-9612,Phoenix,AZ,USA,Furniture,2020-05-14,2022-03-26,COD,4.6,Active
+VEND0048,Cedar Technologies Corp,William Lee,williamlee45@corp.net,+1-331-999-3981,Mumbai,MH,USA,Accessories,2022-08-12,2025-07-08,Net 45,3.6,Active
+VEND0049,Jade Partners Inc,Linda King,lindaking45@yahoo.com,+1-731-390-2292,Phoenix,AZ,USA,Office Supplies,2020-11-27,2022-10-23,Net 45,4.1,Active
+VEND0050,Rapid Resources Ltd,William Martin,williammartin76@yahoo.com,+1-794-257-3804,Nashville,TN,USA,Storage,2022-10-26,2025-08-12,Prepaid,4.3,Active
+VEND0051,Cedar Technologies Ltd,Andrew Williams,andrewwilliams99@yahoo.com,+1-785-526-1496,New York,NY,USA,Furniture,2021-06-26,2024-04-22,Prepaid,3.2,Active
+VEND0052,Metro Materials LLC,Donald Thomas,donaldthomas21@gmail.com,+1-650-525-8933,Delhi,DL,USA,Furniture,2022-07-17,2023-09-29,Net 45,3.4,Active
+VEND0053,Lunar Logistics Corp,Christopher Lee,christopherlee72@corp.net,+1-308-426-4960,Hyderabad,TS,USA,Furniture,2020-09-24,2022-10-08,Net 30,3.2,Active
+VEND0054,Jade Partners Corp,Barbara Miller,barbaramiller42@yahoo.com,+1-791-838-6123,Los Angeles,CA,USA,Peripherals,2022-05-06,2024-01-15,Net 45,3.7,Inactive
+VEND0055,Apex Solutions Ltd,Ashley Martin,ashleymartin31@business.com,+1-420-697-6781,Indianapolis,IN,USA,Electronics,2022-03-16,2024-08-14,Net 30,3.2,Inactive
+VEND0056,Delta Supplies Corp,Charles Wright,charleswright98@outlook.com,+1-612-474-1741,New York,NY,USA,Furniture,2020-10-01,2022-06-28,Net 30,3.9,Active
+VEND0057,Cedar Technologies Corp,Nancy Scott,nancyscott36@corp.net,+1-838-796-2946,San Jose,CA,USA,Peripherals,2022-10-29,2025-02-01,Net 30,3.5,Active
+VEND0058,Eagle Traders Inc,Kimberly White,kimberlywhite6@corp.net,+1-246-139-3245,Chennai,TN,USA,Storage,2022-11-08,2024-12-23,Net 60,4.5,Inactive
+VEND0059,Eagle Traders LLC,Barbara Hill,barbarahill79@business.com,+1-957-962-5902,San Francisco,CA,USA,Networking,2021-10-14,2023-03-29,Net 60,3.8,Inactive
+VEND0060,Apex Solutions LLC,Andrew Martin,andrewmartin54@gmail.com,+1-797-415-1436,Indianapolis,IN,USA,Networking,2021-11-09,2024-09-28,COD,3.2,Active
+VEND0061,Falcon Enterprises Co,Patricia Nguyen,patricianguyen5@yahoo.com,+1-786-817-2800,Indianapolis,IN,USA,Peripherals,2022-02-17,2023-07-18,Net 30,3.6,Inactive
+VEND0062,Global Goods Corp,Barbara Clark,barbaraclark95@business.com,+1-944-163-3262,Bangalore,KA,USA,Networking,2022-10-24,2025-07-11,Net 45,3.9,Inactive
+VEND0063,Falcon Enterprises Corp,Dorothy Harris,dorothyharris46@corp.net,+1-892-890-5331,Austin,TX,USA,Networking,2022-12-27,2024-12-11,COD,3.0,Active
+VEND0064,Horizon Holdings LLC,Sarah Scott,sarahscott89@yahoo.com,+1-921-600-6194,San Jose,CA,USA,Furniture,2021-08-14,2024-08-04,Net 60,3.9,Active
+VEND0065,Vertex Ventures Co,Charles Davis,charlesdavis99@outlook.com,+1-349-397-1689,Denver,CO,USA,Office Supplies,2022-02-16,2024-03-26,Net 30,3.4,Inactive
+VEND0066,Global Goods Co,Thomas Walker,thomaswalker18@outlook.com,+1-311-730-4920,San Antonio,TX,USA,Peripherals,2021-07-09,2024-02-04,Net 30,4.2,Active
+VEND0067,Nova Networks LLC,Joseph Brown,josephbrown1@yahoo.com,+1-763-261-7666,Houston,TX,USA,Storage,2022-08-25,2023-12-05,COD,3.7,Active
+VEND0068,Unity Ventures Ltd,Charles Lee,charleslee30@corp.net,+1-747-856-1611,San Jose,CA,USA,Peripherals,2020-07-02,2023-04-30,COD,4.7,Active
+VEND0069,Falcon Enterprises LLC,John Sanchez,johnsanchez73@outlook.com,+1-817-209-6489,Indianapolis,IN,USA,Office Supplies,2020-03-17,2021-03-26,COD,5.0,Inactive
+VEND0070,Infinity Inc Inc,William Allen,williamallen94@yahoo.com,+1-669-763-5215,Charlotte,NC,USA,Storage,2020-08-18,2022-07-22,Net 45,2.5,Active
+VEND0071,Yield Corp Inc,Charles Torres,charlestorres55@business.com,+1-727-435-2421,Delhi,DL,USA,Furniture,2020-12-25,2023-09-11,Net 30,3.0,Active
+VEND0072,Apex Solutions LLC,Donald Lee,donaldlee97@business.com,+1-473-437-5947,San Diego,CA,USA,Networking,2022-02-24,2023-10-23,Prepaid,2.5,Active
+VEND0073,Delta Supplies Corp,Jessica Brown,jessicabrown88@business.com,+1-714-820-6095,Delhi,DL,USA,Storage,2021-09-20,2023-03-02,Net 30,4.1,Active
+VEND0074,Horizon Holdings Inc,Nancy Flores,nancyflores96@business.com,+1-820-482-7813,San Diego,CA,USA,Storage,2022-09-06,2024-02-09,Prepaid,4.8,Active
+VEND0075,Quantum Quality Corp,Jessica Hill,jessicahill10@outlook.com,+1-777-214-2011,Chicago,IL,USA,Accessories,2022-12-17,2025-12-06,Prepaid,4.8,Active
+VEND0076,Falcon Enterprises LLC,Andrew Wright,andrewwright88@gmail.com,+1-410-834-9008,Phoenix,AZ,USA,Electronics,2022-12-01,2025-02-25,Prepaid,3.6,Active
+VEND0077,Nova Networks Corp,Sandra Rodriguez,sandrarodriguez87@business.com,+1-515-840-1356,San Francisco,CA,USA,Furniture,2020-04-28,2022-11-21,Net 60,4.5,Active
+VEND0078,Nova Networks LLC,Emily Jones,emilyjones9@gmail.com,+1-683-132-5703,Los Angeles,CA,USA,Furniture,2020-05-10,2022-11-15,Net 45,4.4,Inactive
+VEND0079,Metro Materials Corp,Nancy Harris,nancyharris18@corp.net,+1-869-980-6697,Charlotte,NC,USA,Electronics,2020-06-13,2023-05-13,Net 45,5.0,Inactive
+VEND0080,Horizon Holdings Ltd,Dorothy Rodriguez,dorothyrodriguez87@business.com,+1-936-657-7948,Hyderabad,TS,USA,Networking,2020-02-16,2021-12-17,COD,4.6,Active
+VEND0081,Infinity Inc Inc,Sandra Thompson,sandrathompson79@business.com,+1-984-116-4943,Phoenix,AZ,USA,Peripherals,2020-08-19,2021-09-20,Net 30,2.8,Active
+VEND0082,Waveline Works Ltd,Mark Hill,markhill57@business.com,+1-439-652-4559,Delhi,DL,USA,Accessories,2021-05-16,2022-06-30,Net 30,2.9,Active
+VEND0083,Summit Supplies Co,Joseph Torres,josephtorres19@outlook.com,+1-876-633-4621,Austin,TX,USA,Furniture,2021-10-18,2023-06-17,Net 60,3.2,Active
+VEND0084,Blue Ridge Corp LLC,Margaret Scott,margaretscott90@outlook.com,+1-626-518-3444,Indianapolis,IN,USA,Office Supplies,2022-02-19,2024-08-09,COD,3.0,Inactive
+VEND0085,Waveline Works Inc,Jessica Anderson,jessicaanderson53@corp.net,+1-626-670-9683,San Jose,CA,USA,Peripherals,2022-08-06,2023-10-04,COD,3.1,Active
+VEND0086,Lunar Logistics Ltd,Lisa Garcia,lisagarcia49@outlook.com,+1-889-719-1647,Charlotte,NC,USA,Accessories,2021-01-25,2022-03-18,Net 30,3.0,Active
+VEND0087,Jade Partners Ltd,Donald Wilson,donaldwilson96@gmail.com,+1-972-590-4974,Austin,TX,USA,Storage,2021-03-09,2022-09-19,Prepaid,4.3,Inactive
+VEND0088,Yield Corp LLC,Jessica Scott,jessicascott84@corp.net,+1-567-415-5285,Austin,TX,USA,Office Supplies,2022-02-18,2024-06-09,Prepaid,4.7,Inactive
+VEND0089,Kestrel Group Inc,Michael Walker,michaelwalker6@business.com,+1-776-984-4625,Chennai,TN,USA,Storage,2022-01-29,2023-12-15,Net 45,2.5,Inactive
+VEND0090,Kestrel Group Inc,Charles Martinez,charlesmartinez64@yahoo.com,+1-763-770-6530,San Antonio,TX,USA,Office Supplies,2022-02-16,2024-09-21,COD,4.9,Inactive
+VEND0091,Lunar Logistics Inc,Sandra Hernandez,sandrahernandez24@business.com,+1-755-757-1962,Hyderabad,TS,USA,Networking,2020-10-13,2023-04-25,Net 30,4.6,Active
+VEND0092,Eagle Traders Inc,Patricia Smith,patriciasmith2@yahoo.com,+1-423-617-8471,Columbus,OH,USA,Office Supplies,2020-05-19,2023-05-13,Net 30,4.0,Inactive
+VEND0093,Rapid Resources Co,Ashley Johnson,ashleyjohnson68@gmail.com,+1-939-381-9777,New York,NY,USA,Office Supplies,2022-04-22,2023-05-04,Net 30,3.8,Inactive
+VEND0094,Quantum Quality Inc,Elizabeth Miller,elizabethmiller68@corp.net,+1-458-934-6807,Houston,TX,USA,Office Supplies,2021-05-08,2022-11-20,COD,2.7,Inactive
+VEND0095,Waveline Works Inc,Sandra Torres,sandratorres84@gmail.com,+1-865-877-1519,San Diego,CA,USA,Electronics,2021-09-06,2024-08-06,COD,3.4,Inactive
+VEND0096,Falcon Enterprises Ltd,Patricia Smith,patriciasmith73@outlook.com,+1-297-640-1697,Bangalore,KA,USA,Peripherals,2022-10-20,2025-01-06,Net 45,4.8,Inactive
+VEND0097,Vertex Ventures LLC,Sarah Williams,sarahwilliams3@outlook.com,+1-412-701-3362,Chicago,IL,USA,Accessories,2020-03-08,2021-09-07,COD,4.8,Active
+VEND0098,Summit Supplies Corp,David Torres,davidtorres89@yahoo.com,+1-941-180-9204,San Diego,CA,USA,Storage,2021-11-10,2023-12-08,Net 60,2.6,Inactive
+VEND0099,Titan Trading Co,Joseph Jones,josephjones82@gmail.com,+1-479-902-8381,Austin,TX,USA,Furniture,2022-03-23,2024-02-20,Net 45,3.4,Inactive
+VEND0100,Summit Supplies Corp,Margaret Lopez,margaretlopez32@outlook.com,+1-930-175-2344,Delhi,DL,USA,Office Supplies,2020-06-24,2023-03-19,Net 45,3.4,Active
